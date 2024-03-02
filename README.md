@@ -1,2 +1,2 @@
 # notesapp
-notesapp created using j
+notesapp created using js
